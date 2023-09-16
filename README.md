@@ -6,4 +6,4 @@ Here you can find data & code for the paper on structural properties of libretti
 ## Structure
 * [Data](/data)
 * [Code](/code)
-* [Paper](url)
+* [Paper](giovannini_skorinkin_libretti_2023pp.pdf)
