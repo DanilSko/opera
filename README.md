@@ -5,7 +5,7 @@ Here you can find data & code for the paper on structural properties of libretti
 
 ## Structure of this repository
 * [Data](/data)
-* [Code](/code)
+* [Code](/code) (relies on the data in the [Data](/data) folder, no external data is needed)
 * [Paper](giovannini_skorinkin_libretti_2023pp.pdf)
 
 ## Reproduction of the research: instruction
