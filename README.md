@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/579992957.svg)](https://zenodo.org/badge/latestdoi/579992957)
+
 # Computational Approaches to Opera Libretti
 
 ## Purpose of this repository
