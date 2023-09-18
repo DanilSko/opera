@@ -1,0 +1,13 @@
+Features,German sample,French sample 
+num_of_segments,0.45,0.01868097637357296
+num_of_speakers,0.2,4.313551673714e-08
+num_of_person_groups,5.8599304523887e-07,n/a
+word_count_sp,2.706883066487e-08,4.5e-19
+word_count_stage,0.09,1.1e-19
+average_degree,0.017723062602512586,0.16
+density,0.72,6.27730611604e-09
+average_clustering,0.18,0.82
+max_degree,0.08,1.529018559478078e-05
+num_connected_components,0.21,1.1645e-16
+diameter,0.21,0.00916968964547866
+average_path_length,0.38,0.002316750707412838
