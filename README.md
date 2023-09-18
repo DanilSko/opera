@@ -13,3 +13,7 @@ Here you can find data & code for the paper on structural properties of libretti
 ## Reproduction of the research: instruction
 
 Run the [notebook](/code/DraCor_Opera_Analyser.ipynb) to reproduce the research. The notebook is optimised for use in Google Colab, but also works as a standalone Jupyter notebook if all the external libraries & their dependencies are installed. 
+
+## DOI
+
+https://doi.org/10.5281/zenodo.8356601
