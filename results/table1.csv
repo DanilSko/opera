@@ -1,0 +1,8 @@
+Measures,German sample,French sample 
+overall accuracy,84.3%,93.1% 
+precision for class Non-libretto,85.4%,94.1% 
+recall for class Non-libretto,96.6%,98.7% 
+f1 for class Non-libretto,90.7%,96.3% 
+precision for class Libretto,75.6%,68.2% 
+recall for class Libretto,38.7%,31.1% 
+f1 for class Libretto,51.2%,42.7% 
