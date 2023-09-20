@@ -15,6 +15,10 @@ Here you can find data & code for the paper on structural properties of libretti
 
 Run the [notebook](/code/DraCor_Opera_Analyser.ipynb) to reproduce the research. The notebook is optimised for use in Google Colab, but also works as a standalone Jupyter notebook if all the external libraries & their dependencies are installed. 
 
+## Mapping of the figures and tables:
+
+1. [Figure "Evolution of French drama, 1626-1889, visualised through PCA"](/results/figures/pca-fre.png)
+
 ## DOI
 
 https://doi.org/10.5281/zenodo.8356601
